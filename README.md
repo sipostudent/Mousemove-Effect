@@ -11,7 +11,7 @@
 
 ## Mousemove Effect
 
-CSS Effects
+CSS & JS Effects
 
 ## Project Specifications
 
